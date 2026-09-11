@@ -1,0 +1,10 @@
+out/
+target/
+*.class
+
+# IDEA
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/dictionaries
+*.iml
